@@ -148,6 +148,6 @@ Bu projede yapay zeka / Codex aşağıdaki amaçlarla kullanılmıştır:
 
 ## 10. Sonuç
 
-Bu proje, ödevde istenen temel şartları karşılayan çalışan bir Windows Forms pencere uygulamasıdır. Projede Observer Pattern, Factory Pattern ve Singleton Pattern uygulanmıştır. Ayrıca katmanlı mimari, interface ve abstract class kullanımı, basit bellek içi veri yönetimi ve form üzerinde çalışan bildirim log sistemi yer almaktadır.
+Bu proje çalışan bir Windows Forms pencere uygulamasıdır. Projede Observer Pattern, Factory Pattern ve Singleton Pattern uygulanmıştır. Ayrıca katmanlı mimari, interface ve abstract class kullanımı, basit bellek içi veri yönetimi ve form üzerinde çalışan bildirim log sistemi yer almaktadır.
 
 Uygulama sayesinde kampüs duyuruları oluşturulabilir, kullanıcılar sisteme eklenebilir ve duyurular kullanıcıların tercih ettiği bildirim kanalı üzerinden simüle edilerek RichTextBox log alanında gösterilebilir.
