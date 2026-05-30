@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11819.183 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCampusAnnouncementSystem", "SmartCampusAnnouncementSystem.csproj", "{F650A8BD-12B0-6330-DE13-FC69C35048E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F650A8BD-12B0-6330-DE13-FC69C35048E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F650A8BD-12B0-6330-DE13-FC69C35048E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F650A8BD-12B0-6330-DE13-FC69C35048E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F650A8BD-12B0-6330-DE13-FC69C35048E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D2A9F92-0C49-4E3A-B759-8CE74F111E4C}
+	EndGlobalSection
+EndGlobal
